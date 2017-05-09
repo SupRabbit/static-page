@@ -1,2 +1,2 @@
-# static-page
+# static-page  demo`
 static page
